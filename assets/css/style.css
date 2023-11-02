@@ -1,0 +1,88 @@
+.login-card
+{
+ 
+    width: 25%;
+ border: 1px solid black;
+border-radius: 50px;
+padding: 50px 20px;
+
+
+
+}
+.login-card-title {
+    text-align: center;
+}
+.login-card-title h2{
+    color: teal;
+}
+.form-item {
+    margin-top: 15px;
+}
+
+.forgot-password-box {
+    margin-top: 5px;
+}
+.input-box input {
+    width: 100%;
+
+border: none;
+border-bottom: 1px solid black;
+padding-left: 10px;
+padding-bottom: 5px;
+}
+
+.form-item button{
+    width: 100%;
+    border: none;
+    background-color: teal;
+    color: aliceblue;
+    padding: 5px 0px;
+    border-radius: 50px;
+    cursor: pointer;
+
+}
+.forgot-password-box {
+    text-align: center;
+}
+
+.sing-up {
+    margin-top: 15px;
+    width: 25%;
+    background-color: teal;
+    border-radius: 50px;
+    padding: 50px 20px;
+}
+.sing-up-title {
+    text-align: center;
+}
+.sing-up-title h2{
+    color:white;
+}
+.sing-up-item input{
+    width: 100%;
+    border: none;
+    background-color: transparent;
+    border-bottom: 1px solid white;
+    padding-left: 10px;
+    padding-bottom: 5px;
+    
+    
+
+}
+.sing-up-item {
+    margin-top: 15px;
+}
+.sing-up-item input::placeholder{ 
+    color: white ;
+    opacity: 0.5;
+}
+.sing-up-item button{
+    width: 100%;
+    border: none;
+    border-radius: 50px;
+    padding: 5px 0px ;
+    cursor: pointer;
+}
+.sing-up-title {
+    margin-bottom: 80px;
+}
